@@ -1,0 +1,513 @@
+[33mcommit 7c42f3fe417865ad5b4d5147c3788ecf76e1734e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sai Shivam <77090663+CaptianJack0001@users.noreply.github.com>
+Date:   Fri Jul 2 15:35:05 2021 +0530
+
+    ANIMATION 2
+
+[33mcommit 70c48d4c1fc1b1ff7d6a44a823f0eb18b066bddb[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sai Shivam <77090663+CaptianJack0001@users.noreply.github.com>
+Date:   Thu Jul 1 14:35:25 2021 +0530
+
+    enter
+
+[33mcommit d67418ebb35001bcde46ac164b5a807e80bab670[m
+Author: Sai Shivam <77090663+CaptianJack0001@users.noreply.github.com>
+Date:   Thu Jul 1 11:41:49 2021 +0530
+
+    Create desktop.ini
+
+[33mcommit b189f7d4f5ca02cb0ce21a2809f8c33511faeee8[m[33m ([m[1;31mupstream/master[m[33m)[m
+Merge: 51bbcff 64119b2
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Mon Jun 28 16:28:26 2021 -0300
+
+    Merge branch 'master' of github.com:cobidev/simplefolio
+
+[33mcommit 51bbcff6aa8eed6464686636c89599d1bf3da1fc[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Mon Jun 28 16:28:16 2021 -0300
+
+    fix HTML typo
+
+[33mcommit 64119b2c1d5cf6b27bab8b19fbae5734db0b09e4[m
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Mon Jun 28 16:25:21 2021 -0300
+
+    Update README.md
+
+[33mcommit 8aee38a20a19f191a830352942350753c621b9b3[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sun Jun 27 01:57:13 2021 -0300
+
+    improve a11y in template
+
+[33mcommit edbd6d8be39c4ef681453ddae039aa16ef17f245[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sun Jun 27 01:47:26 2021 -0300
+
+    update .gitignore
+
+[33mcommit 1491cd99c4c5ac85efcf11c06e9f68cb1153f7e7[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sun Jun 27 01:43:22 2021 -0300
+
+    update hash webpack name
+
+[33mcommit d4280989873fabbe3589471851b57df0f7187d96[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sun Jun 27 01:41:45 2021 -0300
+
+    remove jQuery scrollTo and refactor tilt implementation
+
+[33mcommit 3af183304eefd561de57322658cbda630a881394[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sun Jun 27 01:29:24 2021 -0300
+
+    update assets path
+
+[33mcommit f607220536f073ebfd3cf9fafa3987080c3892a6[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sun Jun 27 01:29:18 2021 -0300
+
+    handle assets and update hashing
+
+[33mcommit ea8f98fd18b5c41ea87ea43c0fffdc8b7e561739[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sun Jun 27 01:09:16 2021 -0300
+
+    import addResume fn in index
+
+[33mcommit e2a0aed03f361ebf7350c86b012e5d128f6e659d[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sun Jun 27 01:08:29 2021 -0300
+
+    format comments
+
+[33mcommit 22a7b4eed0d881882377b9e1809ada96d524e1b2[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Jun 26 23:53:00 2021 -0300
+
+    refactor JS files import/export
+
+[33mcommit 9bc2659267bd4636ea816a23860752f01f0d8663[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Jun 26 23:42:24 2021 -0300
+
+    update footer border line styles
+
+[33mcommit b97f1a735271413c855a7add34b802d844c8cf64[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Jun 26 23:42:07 2021 -0300
+
+    optimize demo assets
+
+[33mcommit d1edbefe1b2e47f5eb2724cbe5686ddd0e8900f0[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Jun 26 23:41:54 2021 -0300
+
+    update year to be 2021
+
+[33mcommit 1d6d312964b460777c5e2f878d69f027b5b0a1a0[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Jun 26 23:41:45 2021 -0300
+
+    update deps and tweak webpack config
+
+[33mcommit 886370947b76972e88de6bc2b8d0f26e4ed53664[m
+Merge: ddc0a08 a8283c4
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Sun Jun 20 21:01:34 2021 -0300
+
+    Merge pull request #87 from Isaiah-Hamilton/master
+    
+    Fixing typo in _hero.scss
+
+[33mcommit ddc0a087c1ef784789f73876cb7bffcfc8e4050c[m
+Merge: b430014 5a8b61f
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Sun Jun 20 20:50:09 2021 -0300
+
+    Merge pull request #99 from pewriebontal/patch-1
+    
+    fix a typo
+
+[33mcommit b43001412f662311a115695d6cdcc204a01e49f2[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sun Jun 6 15:43:56 2021 -0300
+
+    format files with prettier
+
+[33mcommit 9fce26baef55d851df80b072c0f6cb22bfacef72[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sun Jun 6 15:37:29 2021 -0300
+
+    add prettier
+
+[33mcommit 984edcc60458bac911fcf6661f2c2cbf17c4e054[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sun Jun 6 15:35:02 2021 -0300
+
+    update addResume fn comment
+
+[33mcommit d1ff9e488986d2549129c852e3ca1c20a63c47f8[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sun Jun 6 15:34:06 2021 -0300
+
+    ignore lock files
+
+[33mcommit 5a8b61f9e4906a4119432a72468f6ee5b4edb290[m
+Author: pewriebontal <64556189+pewriebontal@users.noreply.github.com>
+Date:   Sun May 23 10:51:05 2021 +0630
+
+    fix a typo
+
+[33mcommit a8283c45652557058c5ae70dc89e094410fa352e[m
+Author: Isaiah Hamilton <70828596+Isaiah-Hamilton@users.noreply.github.com>
+Date:   Tue Apr 13 15:34:41 2021 -0400
+
+    Fixing typo in _hero.scss
+
+[33mcommit 4a3ffa1321101ae9d913e4834eeaeab9749e58f6[m
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Sat Apr 3 15:40:15 2021 -0300
+
+    Update Readme
+
+[33mcommit 7b6d3511359cd2a61b965dd124474680b5bbbe38[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Apr 3 15:38:27 2021 -0300
+
+    add function that add PDF resume
+
+[33mcommit 0bd741913284e36d1904d51e039fe8398e6a01f1[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Apr 3 15:37:47 2021 -0300
+
+    add sample resume pdf file
+
+[33mcommit 1f0ecad7684411446fb368ccf601d2419b057bab[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Apr 3 15:37:36 2021 -0300
+
+    set empty value for resume href
+
+[33mcommit 4ba5371cc0902a84377f0aa93fb0ab79c23f8979[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Apr 3 15:36:45 2021 -0300
+
+    update formatting on webpack.common
+
+[33mcommit 1523fef86a8eecc65c0e4040fbe240bc1de9c3cf[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Apr 3 13:17:19 2021 -0300
+
+    add optional position for hero component
+
+[33mcommit 80953f2330d8aa2bf6d2d60415062b7503a60b24[m
+Merge: 66bc123 608a72f
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Apr 3 13:16:12 2021 -0300
+
+    Merge branch 'master' of github.com:cobidev/simplefolio
+
+[33mcommit 66bc1231ec34562b8c91d09c421ddfa1dfb599be[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Apr 3 13:15:55 2021 -0300
+
+    rewrite about dummy text
+
+[33mcommit 608a72fbd3397aa113077c2622519bdb6ebda747[m
+Merge: 4ce7c0f ecf324d
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Sat Apr 3 04:23:53 2021 -0300
+
+    Merge pull request #27 from Tiagochicoo/parallax-jumbotron
+    
+    added parralax effect on Jumbotron
+
+[33mcommit 4ce7c0f0010de10ed59a4f4989e571b3985545f8[m
+Merge: 983f875 811e6d0
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Sat Apr 3 01:19:42 2021 -0300
+
+    Merge pull request #49 from Aayushjhaa/test
+    
+    updated the code so that it can accept uppercase letters
+
+[33mcommit 983f8752c8bcb2602d04ffc45440ba639a4e8a1b[m
+Merge: 34da247 5aed293
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Sat Apr 3 01:03:09 2021 -0300
+
+    Merge pull request #53 from gjaiswal108/master
+    
+    Added compressed image
+
+[33mcommit 34da24710fecd17342c0de0aeab49ba19bb16aa7[m
+Merge: c08be68 a4204ac
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Sat Apr 3 00:54:32 2021 -0300
+
+    Merge pull request #54 from anshumalivfx/master
+    
+    Updated template.html
+
+[33mcommit c08be6808015d22998d440b0d94d25a7ae5e30cf[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Apr 3 00:48:38 2021 -0300
+
+    add point up icon
+
+[33mcommit d7f8e435e16e4c845401106656b76ad917e2d5f1[m
+Author: Jacobo Martinez <jacobojavier98@gmail.com>
+Date:   Sat Apr 3 00:47:21 2021 -0300
+
+    update need of portfolio section
+
+[33mcommit 7202747ff8b4723133c85e2158d7824a27739690[m
+Merge: 732a3a4 51d965f
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Sat Apr 3 00:44:04 2021 -0300
+
+    Merge pull request #59 from SoulCoder65/master
+    
+    Update README.md
+
+[33mcommit 732a3a447e008c15fcdfddee5df5e82597cfd596[m
+Merge: 13ac168 c65c9f6
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Sat Apr 3 00:20:42 2021 -0300
+
+    Merge pull request #68 from jensdufour/master
+    
+    Adding Github Actions
+
+[33mcommit 13ac168adeb62e78465562dd56c973b3a2c133a6[m
+Merge: c74bd31 c9aac88
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Fri Apr 2 23:58:02 2021 -0300
+
+    Merge pull request #73 from gagansday/patch-1
+    
+    Remove extra closing a tag
+
+[33mcommit c9aac884bcfbc2ece80e6e34442d7f451ce9cacb[m
+Author: Gagandeep Singh <25811413+gagansday@users.noreply.github.com>
+Date:   Thu Dec 17 14:10:47 2020 +0530
+
+    Remove extra closing a tag
+    
+    Remove extra closing `a` tag in `footer__text` paragraph
+
+[33mcommit c65c9f6e1e7d409a4664c74766ed83442f2a2940[m
+Author: Jens Du Four <jens.dufour@outlook.com>
+Date:   Mon Nov 9 15:36:47 2020 +0100
+
+    Create gh-pages.yml
+
+[33mcommit 51d965f5237655a9b68a9724c7f33635d316fa82[m
+Author: SoulCoder65 <64912071+SoulCoder65@users.noreply.github.com>
+Date:   Tue Oct 6 19:59:30 2020 +0530
+
+    Update README.md
+
+[33mcommit a4204aca00447b97a78add940a44bd3da3311f06[m
+Author: anshumalivfx <anshumali.karna99@gmail.com>
+Date:   Thu Oct 1 10:11:25 2020 +0530
+
+    Updated template.html
+
+[33mcommit 5aed2932be2d0edebf2cc68dd3016a5882ca886d[m
+Author: Gaurav Jaiswal <32886368+gjaiswal108@users.noreply.github.com>
+Date:   Thu Oct 1 00:44:49 2020 +0530
+
+    Added Compressed image of example
+
+[33mcommit 2d5f06dd31a92b63513a82085996c0d531b2911c[m
+Author: Gaurav Jaiswal <32886368+gjaiswal108@users.noreply.github.com>
+Date:   Thu Oct 1 00:43:38 2020 +0530
+
+    Delete example.png
+
+[33mcommit 811e6d07a4a8778debb40379d53d43d89a922edc[m
+Author: Aayushjhaa <aayushjha351@gmail.com>
+Date:   Mon Sep 7 23:52:31 2020 +0530
+
+    updated the code so that it can accept uppercase letters
+
+[33mcommit c74bd315f10f2d25c613d62c6b064d4458e963a0[m
+Author: Jacobo Martinez <jacobo.martinez@mediamonks.com>
+Date:   Sat Jun 27 21:24:32 2020 -0300
+
+    update deps
+
+[33mcommit 625679a47007bb889b8457ccc71dc88a5b62dd1a[m
+Author: Jacobo Martinez <jacobo.martinez@mediamonks.com>
+Date:   Sun Jun 21 21:16:20 2020 -0300
+
+    change contact email of the author
+
+[33mcommit ecf324d33f6d12319b089e7f2ff685df9020780e[m
+Author: Tiagochicoo <49552668+Tiagochicoo@users.noreply.github.com>
+Date:   Sun Apr 5 11:55:25 2020 +0100
+
+    added parralax effect on Jumbotron
+
+[33mcommit 9b8f19a653c44580b8399adf930b31d15cbe33bc[m
+Merge: 5bba822 7675a53
+Author: Jacobo Martinez <jacobo.martinez@mediamonks.com>
+Date:   Sat Mar 21 20:19:03 2020 -0300
+
+    Merge branch 'master' of github.com:cobidev/simplefolio
+
+[33mcommit 5bba822ba17cd203a67ebb990d0b62c5dce862b0[m
+Author: Jacobo Martinez <jacobo.martinez@mediamonks.com>
+Date:   Sat Mar 21 20:18:15 2020 -0300
+
+    Bump version of simplefolio and update packages
+
+[33mcommit 7675a5381cc6f2d8f633fe240150aa226975396c[m
+Merge: c2fcd16 989f119
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Fri Mar 13 12:10:12 2020 -0300
+
+    Merge pull request #25 from SNasser97/fixEdgeandIE
+    
+    ScrollReveal fix for MS Edge and basic fall back for IE11 - Simplefolio
+    
+    Merged 🏆. Thank you for the good work @SNasser97 and for taking the time to improve this project 🙌
+
+[33mcommit 989f119df92503c2fc85edcb8461bea71eee6b1d[m
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Fri Mar 13 12:06:02 2020 -0300
+
+    Delete package-lock.json
+    
+    @SNasser97 Hello!
+    
+    There is not need to add package-lock.json at this time because if some users clone the project, and they use Yarn as package manager, it will conflict the lock files or either they will need to delete the file manually. I want to be sure to project is open for each preference 🙂
+
+[33mcommit 947db98ccedc914bcad74f55c6403df026601409[m
+Author: SNasser97 <snasserahmed@outlook.com>
+Date:   Wed Mar 11 22:24:14 2020 +0000
+
+    add $ before secondary-color on scss mixin
+
+[33mcommit 74c15ad72b429ceba3b6461e6784b82eba0717a0[m
+Author: SNasser97 <snasserahmed@outlook.com>
+Date:   Wed Mar 11 22:13:36 2020 +0000
+
+    add seconday-color to --hero
+
+[33mcommit 227af498a6315ec08aa8e250fbaa51370a5fc1c0[m
+Author: SNasser97 <snasserahmed@outlook.com>
+Date:   Wed Mar 11 22:10:04 2020 +0000
+
+    provided correct colour for cta buttons
+
+[33mcommit 700f4f0caec35224361c8c363e7d46f6902c543a[m
+Author: SNasser97 <snasserahmed@outlook.com>
+Date:   Wed Mar 11 22:06:44 2020 +0000
+
+    provide colour on hover
+
+[33mcommit 324bab728f91470da2176ed9593d99e7df521150[m
+Author: SNasser97 <snasserahmed@outlook.com>
+Date:   Wed Mar 11 22:03:24 2020 +0000
+
+    apply hover styles for IE11 cta btn
+
+[33mcommit fd546da115e754fd142744dfe05c3160d4c738ec[m
+Author: SNasser97 <snasserahmed@outlook.com>
+Date:   Wed Mar 11 21:53:27 2020 +0000
+
+    apply fix for edge + target styles for IE11
+
+[33mcommit c2fcd161cbe88cfab3246779fd9946a520dd6571[m
+Author: Jacobo Martinez <jacobo.martinez@mediamonks.com>
+Date:   Fri Feb 28 01:38:34 2020 -0300
+
+    remove package-lock.json to let the user make a choice on what package manager use
+
+[33mcommit 8af3ef39795e3c20e2c30134f6d0d56832be63bd[m
+Merge: 0f73e84 e7e4354
+Author: Jacobo Martinez <jacobo.martinez@mediamonks.com>
+Date:   Fri Feb 28 01:33:52 2020 -0300
+
+    Merge branch 'master' of github.com:cobidev/simplefolio
+
+[33mcommit 0f73e845f9edde41eaeae59f4e5405e8201286fc[m
+Author: Jacobo Martinez <jacobo.martinez@mediamonks.com>
+Date:   Fri Feb 28 01:33:29 2020 -0300
+
+    Fix author link typo
+
+[33mcommit e7e43547d439734fd5e30b22ed7b47df67d64564[m
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Fri Feb 28 01:11:16 2020 -0300
+
+    Update Readme
+
+[33mcommit 2a9aaf855b2b334c933f4bbb3884efb26e529414[m
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Fri Feb 28 00:37:56 2020 -0300
+
+    Add lockup GIF to notice Gatsby Simplefolio
+
+[33mcommit b6a5e273e33d9186fcd5fa9135fe664e44f3fe2d[m
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Fri Feb 28 00:33:59 2020 -0300
+
+    add more libraries on Technologies used
+
+[33mcommit 2ee0ecc4099526a4c04ef0368796b08b363dee26[m
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Fri Feb 28 00:28:04 2020 -0300
+
+    Fix Readme typo
+
+[33mcommit e474994f2048df756dfe8c58bf912280d1289292[m
+Merge: 37c68d0 637114c
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Wed Feb 5 18:02:34 2020 -0300
+
+    Merge pull request #16 from curiousGeek7/master
+    
+    Minor changes in About Section inside README.md file
+
+[33mcommit 37c68d0bfd584ee8e1198b98739dad0563400c13[m
+Author: Jacobo Martinez <jacobo.martinez@mediamonks.com>
+Date:   Wed Feb 5 18:00:15 2020 -0300
+
+    update dependecies
+
+[33mcommit 3f7f5d0381eb20ed894bb90d5d1d014cbbaec59e[m
+Author: Jacobo Martinez <jacobo.martinez@mediamonks.com>
+Date:   Wed Feb 5 17:57:59 2020 -0300
+
+    update about section styles
+
+[33mcommit 93a1076ef8e33e9fd4fe33bab86a25a476cfdeee[m
+Merge: 81cee41 2fd31a0
+Author: Jacobo Martinez <jacobo.martinez@mediamonks.com>
+Date:   Fri Jan 24 17:11:50 2020 -0300
+
+    Merge branch 'master' of github.com:cobidev/simplefolio
+
+[33mcommit 81cee415760a400b68ac9fa4d096ddd99abce95a[m
+Author: Jacobo Martinez <jacobo.martinez@mediamonks.com>
+Date:   Fri Jan 24 17:11:37 2020 -0300
+
+    update packages
+
+[33mcommit 637114c4272aa584ece2aaf79d6804f61742dfd6[m
+Author: CuriousGeek <krit.s255@gmail.com>
+Date:   Tue Jan 14 23:34:03 2020 -0500
+
+    Minor changes in About Section inside README.md file
+
+[33mcommit 2fd31a0f8c23ab06112f25434e44d5c302933b59[m
+Author: Jacobo Martínez <35739742+cobidev@users.noreply.github.com>
+Date:   Wed Jan 8 11:51:52 2020 -0300
+
+    Update README.md
